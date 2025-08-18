@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SAUMYA SINGH</h1>
-<h3 align="center">A passionate Cloud Engineer who loves designing, deploying, and optimizing scalable Cloud infrastructures.</h3>
+<h3 align="center">A passionate Cloud Engineer who loves designing, deploying, and optimizing scalable Cloud Infrastructures.</h3>
 
 - 🔭 I’m currently working on **Serverless Application with AWS Lambda**
 
