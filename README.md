@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 💬 Ask me about **AWS,Python, Bash**
+- 💬 Ask me about **AWS, linux, scripting**
 
 - 📫 How to reach me **saumyasingh24602new@gmail.com**
 
