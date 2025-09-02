@@ -16,7 +16,7 @@
 
 - ♦️ Read my latest Blogs here, [https://saumyasingh.hashnode.dev/](https://saumyasingh.hashnode.dev/)
 
-- ♦️ Ask me about **AWS,Python,Bash,Linux**
+- ♦️ Ask me about **AWS, Python, Bash, Linux**
 
 - ♦️ How to reach me **saumyasingh24602new@gmail.com**
 
