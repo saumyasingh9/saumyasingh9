@@ -1,38 +1,34 @@
+
 <h1 align="center">I'm SAUMYA SINGH,</h1>
 <h3 align="center">A passionate Cloud Engineer who loves designing, deploying, and optimizing scalable cloud infrastructures.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumyasingh9&label=Profile%20views&color=0e75b6&style=flat" alt="saumyasingh9" /> </p>
 
-- ♦️ I’m currently working on **Cloud related projects!!**
+- ♦️ I’m currently working on **Three-tier Architecture deployment**
 
-- ♦️ I’m currently learning  **AWS (EC2, VPC, S3, IAM, RDS, Lambda, CloudFormation, Route 53), Linux (Ubuntu), DevOps**
+- ♦️ I’m currently learning **AWS (EC2, VPC, S3, IAM, RDS, Lambda, CloudFormation, Route 53), Linux (Ubuntu), DevOps**
 
-- ♦️ I’m looking to collaborate on  **DevOps and Cloud Projects**
+- ♦️ I’m looking to collaborate on **Cloud Projects**
 
-- ♦️ I’m looking for help with  **DevOps**
+- ♦️ I’m looking for help with **DevOps**
 
 - ♦️ Visit my portfolio [https://bento.me/saumya-singh](https://bento.me/saumya-singh)
 
 - ♦️ Read my latest Blogs here, [https://saumyasingh.hashnode.dev/](https://saumyasingh.hashnode.dev/)
 
-- ♦️ Ask me about  **AWS, Python, Bash, Linux**
+- ♦️ Ask me about **AWS,Python,Bash,Linux**
 
-- ♦️ How to reach me  **saumyasingh24602new@gmail.com**
+- ♦️ How to reach me **saumyasingh24602new@gmail.com**
 
-- ♦️ A fun fact about me  **🌃Selenophile**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- ♦️ A fun fact about me **🌃Selenophile**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/saumya_singh_4e5b0e2aacba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/saumya_singh_4e5b0e2aacba" height="30" width="40" /></a>
+<a href="https://dev.to/saumya_singh_4e5b0e2aacba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="saumya_singh_4e5b0e2aacba" height="30" width="40" /></a>
 <a href="https://twitter.com/saumya240602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saumya240602" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saumya-singh-171118356" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saumya-singh-171118356" height="30" width="40" /></a>
 <a href="https://instagram.com/saumyasingh2406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saumyasingh2406" height="30" width="40" /></a>
 <a href="https://hashnode.com/@saumya24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@saumya24" height="30" width="40" /></a>
-<a href="/https://saumyasingh.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://saumyasingh.hashnode.dev/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
