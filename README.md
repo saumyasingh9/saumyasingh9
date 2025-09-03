@@ -3,23 +3,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumyasingh9&label=Profile%20views&color=0e75b6&style=flat" alt="saumyasingh9" /> </p>
 
-- ♦️ I’m currently working on **Three-tier Architecture deployment**
+- 💎 I’m currently working on **Three-tier Architecture deployment**
 
-- ♦️ I’m currently learning **AWS (EC2, VPC, S3, IAM, RDS, Lambda, CloudFormation, Route 53), Linux (Ubuntu), DevOps**
+- 💎 I’m currently learning **AWS (EC2, VPC, S3, IAM, RDS, Lambda, CloudFormation, Route 53), Linux (Ubuntu), DevOps**
 
-- ♦️ I’m looking to collaborate on **Cloud Projects**
+- 💎 I’m looking to collaborate on **Cloud Projects**
 
-- ♦️ I’m looking for help with **DevOps**
+- 💎 I’m looking for help with **DevOps**
 
-- ♦️ Visit my portfolio [https://bento.me/saumya-singh](https://bento.me/saumya-singh)
+- 💎 Visit my portfolio [https://bento.me/saumya-singh](https://bento.me/saumya-singh)
 
-- ♦️ Read my latest Blogs here, [https://saumyasingh.hashnode.dev/](https://saumyasingh.hashnode.dev/)
+- 💎 Read my latest Blogs here, [https://saumyasingh.hashnode.dev/](https://saumyasingh.hashnode.dev/)
 
-- ♦️ Ask me about **AWS, Python, Bash, Linux**
+- 💎 Ask me about **AWS, Python, Bash, Linux**
 
-- ♦️ How to reach me **saumyasingh24602new@gmail.com**
+- 💎 How to reach me **saumyasingh24602new@gmail.com**
 
-- ♦️ A fun fact about me **🌃Selenophile**
+- 💎 A fun fact about me **🌃Selenophile**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
