@@ -5,7 +5,7 @@
 
 - 💎 I’m currently working on **Three-tier Architecture deployment**
 
-- 💎 I’m currently learning **AWS (EC2, VPC, S3, IAM, RDS, Lambda, CloudFormation, Route 53), Linux (Ubuntu), DevOps**
+- 💎 I’m currently learning **AWS (EC2, VPC, S3, IAM, RDS, Lambda, CloudFormation, Route 53, EKS), Linux (Ubuntu), DevOps**
 
 - 💎 I’m looking to collaborate on **Cloud Projects**
 
@@ -15,7 +15,7 @@
 
 - 💎 Read my latest Blogs here, [https://saumyasingh.hashnode.dev/](https://saumyasingh.hashnode.dev/)
 
-- 💎 Ask me about **AWS, Python, Bash, Linux**
+- 💎 Ask me about **AWS, Python, Bash, Linux, DevOps**
 
 - 💎 How to reach me **saumyasingh24602new@gmail.com**
 
