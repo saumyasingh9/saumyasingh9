@@ -1,5 +1,5 @@
 <h1 align="center">I'm Saumya Singh,</h1>
-<h3 align="center">A passionate Cloud Engineer who loves designing, deploying, and optimizing scalable cloud infrastructures.</h3>
+<h3 align="center">A passionate Cloud Engineer and DevOps enthusiast who loves designing, deploying, and optimizing scalable cloud infrastructures.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumyasingh9&label=Profile%20views&color=0e75b6&style=flat" alt="saumyasingh9" /> </p>
 
