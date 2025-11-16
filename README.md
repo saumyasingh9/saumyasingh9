@@ -19,8 +19,6 @@
 
 - 💎 How to reach me **saumyasingh24602new@gmail.com**
 
-- 💎 A fun fact about me **🌃Selenophile**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/saumya_singh_4e5b0e2aacba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="saumya_singh_4e5b0e2aacba" height="30" width="40" /></a>
