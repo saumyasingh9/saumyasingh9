@@ -5,7 +5,7 @@
 
 - 💎 I’m currently working on **Three-tier Architecture deployment**
 
-- 💎 I’m currently learning **AWS, Linux, DevOps, Python, Scripting**
+- 💎 I’m currently learning **AWS, Azure, Linux, DevOps, Python, Scripting**
 
 - 💎 Visit my portfolio [https://bento.me/saumya-singh](https://bento.me/saumya-singh)
 
