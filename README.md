@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumyasingh9&label=Profile%20views&color=0e75b6&style=flat" alt="saumyasingh9" /> </p>
 
-- 💎 I’m currently working on **Three-tier Architecture deployment**
-
-- 💎 I’m currently learning **AWS, Azure, Linux, DevOps, Python, Scripting**
+- 💎 Ask me about **AWS, Azure, Linux, DevOps, Python, Scripting, Java, C++, Networking**
 
 - 💎 Visit my portfolio [https://bento.me/saumya-singh](https://bento.me/saumya-singh)
 
