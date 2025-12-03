@@ -9,7 +9,7 @@
 
 - 💎 Read my latest Blogs here, [https://saumyasingh.hashnode.dev/](https://saumyasingh.hashnode.dev/)
 
-- 💎 How to reach me **saumyasingh24602new@gmail.com**
+- 💎 How to reach me **saumyasingh24602new@gmail.com, www.linkedin.com/in/saumya24**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
