@@ -5,8 +5,6 @@
 
 - 💎 Ask me about **AWS, Azure, Linux, DevOps, Python, Scripting, Java, C++, Networking**
 
-- 💎 Visit my portfolio [https://bento.me/saumya-singh](https://bento.me/saumya-singh)
-
 - 💎 Read my latest Blogs here, [https://saumyasingh.hashnode.dev/](https://saumyasingh.hashnode.dev/)
 
 - 💎 How to reach me **saumyasingh24602new@gmail.com ,   www.linkedin.com/in/saumya24**
