@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumyasingh9&label=Profile%20views&color=0e75b6&style=flat" alt="saumyasingh9" /> </p>
 
-- 💎 Ask me about **AWS, Azure, Linux, DevOps, Python, Scripting, Java, C++, Networking**
+- 💎 Ask me about **AWS, Azure, Linux, DevOps, Python, Scripting, Bash, C++, Networking**
 
 - 💎 Read my latest Blogs here, [https://saumyasingh.hashnode.dev/](https://saumyasingh.hashnode.dev/)
 
