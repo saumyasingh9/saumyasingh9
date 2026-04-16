@@ -12,9 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/saumya_singh_4e5b0e2aacba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="saumya_singh_4e5b0e2aacba" height="30" width="40" /></a>
-<a href="https://twitter.com/saumya240602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saumya240602" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saumya-singh-171118356" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saumya-singh-171118356" height="30" width="40" /></a>
-<a href="https://instagram.com/saumyasingh2406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saumyasingh2406" height="30" width="40" /></a>
 <a href="https://hashnode.com/@saumya24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@saumya24" height="30" width="40" /></a>
 </p>
 
